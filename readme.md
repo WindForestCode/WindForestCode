@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Junior Android Developer</h3>
 <h3>Tech Stack:</h3>
-- Kotlin;\  
+- Kotlin;<br/>
 - Java;  
 - Clean Architecture;  
 - MVVM, MVI;  
