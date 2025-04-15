@@ -12,4 +12,4 @@
 - OkHTTP, Retrofit;<br/>  
 - Coroutines;<br/>  
 - Dagger, Hilt.<br/>
-[![codewars](https://www.codewars.com/users/username/badges/small)]
+[![codewars](https://www.codewars.com/users/Windforest/badges/small)]
