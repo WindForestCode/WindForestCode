@@ -11,4 +11,8 @@
 - OkHTTP, Retrofit;<br/>  
 - Coroutines;<br/>  
 - Dagger, Hilt.<br/>
-
+  <br/>
+ <picture>
+ 
+  <img alt="codewars" src="https://www.codewars.com/users/Windforest/badges/small">
+</picture>
