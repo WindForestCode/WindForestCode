@@ -13,6 +13,8 @@
   <li>Coroutines</li>
   <li>Dagger, Hilt</li>
   <li>Glide, Coil</li>
+  <li>GIT</li>
+  <li>Linux</li>
 </ul>
   <br/>
  <picture>
