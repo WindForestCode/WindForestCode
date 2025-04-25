@@ -1,12 +1,13 @@
 <h1 align="center">Hi there, I'm WindForest
-<h3 align="center">Junior Android Developer</h3>
+<h3 align="center">Road to Android Developer</h3>
 <h3>Tech Stack:</h3>
 <ul>
   <li>Kotlin</li>
   <li>Java</li>
+  <li>日本語</li>
   <li>Clean Architecture</li>
   <li>MVVM, MVI</li>
-  <li>Room</li>
+  <li>SharedPreference, Room</li>
   <li>Fragments, Jetpack Compose Navigation</li>
   <li>XML layouts</li>
   <li>OkHTTP, Retrofit</li>
