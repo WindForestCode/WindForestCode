@@ -5,11 +5,12 @@
   <li>Kotlin</li>
   <li>Java</li>
   <li>日本語</li>
-  <li>Clean Architecture</li>
+  <li>Clean Architecture, SOLID</li>
   <li>MVVM, MVI</li>
   <li>SharedPreference, Room</li>
   <li>Fragments, Jetpack Compose Navigation</li>
   <li>XML layouts</li>
+  <li>Jetpack Compose</li>
   <li>OkHTTP, Retrofit</li>
   <li>Coroutines</li>
   <li>Dagger, Hilt</li>
